@@ -47,3 +47,4 @@ group :development, :test do
 end
 
 gem 'sass', '3.2.19'
+gem 'bower-rails'
