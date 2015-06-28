@@ -11,3 +11,6 @@
 /log/*
 !/log/.keep
 /tmp
+
+# compiled js
+app/assets/javascripts/app.js
